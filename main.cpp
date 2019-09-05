@@ -14,7 +14,7 @@ player p3[]={Red,Yellow,Red,Yellow,Red,Yellow,Red,Yellow,Red,Yellow,Red,Yellow,R
 player* ps[]={p1,p2,p3};    // no you can't okk
 =======
 
-GameState* gs[]={g1,g2,g3};     //one change  
+GameState* gs[]={g1,g2,g3};    // I change 
 
 void check(int i,GameState ggs,player p, bool reset=false)
 {
