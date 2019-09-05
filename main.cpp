@@ -10,7 +10,7 @@ GameState g3[]={okay,okay,okay,okay,okay,okay,okay,okay,okay,okay,okay,okay,okay
 player p3[]={Red,Yellow,Red,Yellow,Red,Yellow,Red,Yellow,Red,Yellow,Red,Yellow,Red,Yellow,Red,Yellow,Red,Yellow,Red,Yellow,Red,Yellow,Red,Yellow,Red,Yellow,Red,Yellow,Red,Yellow,Red,Yellow,Red,Yellow,Red,Yellow,Red,Yellow,Red,Yellow,Red,Yellow,Yellow,Yellow};
 
 
-player* ps[]={p1,p2,p3};    // hello people 
+player* ps[]={p1,p2,p3};    /// I can change what I want ok 
 GameState* gs[]={g1,g2,g3};
 
 void check(int i,GameState ggs,player p, bool reset=false)
